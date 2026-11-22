@@ -63,4 +63,4 @@ Fortinet NSE 1 – Fundamentals in Cybersecurity · Cisco Introduction to Cybers
 
 - **M.Tech**, AI & Data Science (Cybersecurity) — NFSU, Gandhinagar · 2025–2027
 - **CITS**, Information Technology — NSTI Noida · 2024–2025
-- **B.Tech**, CSE (AI & ML) — ABES Engineering College · 2021–2024
+- **B.Tech**, CSE (AI & ML) — ABES Engineering College · 2020–2024
